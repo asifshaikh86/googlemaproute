@@ -4,6 +4,13 @@ Draw route between two points
 
 ![alt tag](https://drive.google.com/uc?export=view&id=0B4JREw1JZW_cdkF1MmJ5Ujh5WHc)
 
+### Gradle dependency  ```build.gradle```
+```
+dependencies {
+    compile 'com.cs:googlemaproute:1.0.0'
+}
+```
+
 # Sample usage
 
 First must implement interface
