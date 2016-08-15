@@ -50,6 +50,9 @@ setColorHash  | Need one parameter it should be string hash code ``"#00ff00"``
 setLoader  | Need one parameter it should be bolean ``true`` or ``false``
 setLoaderMsg  | Need one parameter it should be string like ``"Draw line, please wait..."``
 
+### Start from 
+``minSdkVersion 19 ``
+
 
 # LICENSE
 
