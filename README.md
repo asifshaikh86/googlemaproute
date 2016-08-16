@@ -1,3 +1,6 @@
+ [ ![Download](https://api.bintray.com/packages/codingsignals/maven/googlemaproute/images/download.svg) ](https://bintray.com/codingsignals/maven/googlemaproute/_latestVersion)[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-googlemaproute-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/4157)
+
+
 # googlemaproute
 
 Draw route between two points
